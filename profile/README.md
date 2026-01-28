@@ -1,4 +1,4 @@
-# 🧨 Apppocalypse | Group 41
+# Apppocalypse | Group 41
 
 This organization contains all the information related to our mobile development project for **ISIS3510**. 
 
